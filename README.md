@@ -1,3 +1,3 @@
 # apnacollegedemo
-thjis is me
-author - Romil Jain
+this is my first git repo.
+Author - Romil Jain
